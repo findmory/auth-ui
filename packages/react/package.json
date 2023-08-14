@@ -1,5 +1,5 @@
 {
-  "name": "findmory/auth-ui-react",
+  "name": "auth-ui-react",
   "version": "0.4.2",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.es.js",
