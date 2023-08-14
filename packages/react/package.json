@@ -1,5 +1,5 @@
 {
-  "name": "auth-ui-react",
+  "name": "authUIReact",
   "version": "0.4.2",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.es.js",
